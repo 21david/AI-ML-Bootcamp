@@ -1,4 +1,4 @@
-# Banking operations observability
+# Banking Operations Observability & Predictive Analytics 
 
 This project takes the bank operations data and builds models to forecast metrics, flag critical incidents, and help explain issues from logs and runbooks.
 
